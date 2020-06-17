@@ -1,4 +1,4 @@
  uri "http://sadl.org/Shapes.sadl" alias shapes.
  
  Shape is a class described by area with values of type float.
- 
+ Circle is a type of Shape.
